@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/YOUR-DISCORD-ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://instagram.com/YOUR-USERNAME">
+  <a href="https://instagram.com/YOUR-INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
@@ -61,13 +61,6 @@ applications to production: RAG pipelines, agent architectures, and scalable API
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackiycik&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=8B949E&text_color=7D8590" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=Zackiycik&hide_border=true&background=00000000&stroke=7D8590&ring=8B949E&fire=8B949E&currStreakNum=8B949E&currStreakLabel=7D8590&sideNums=7D8590&sideLabels=7D8590&dates=7D8590" alt="Streak"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&card_width=420&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackiycik&layout=compact&hide_border=true&langs_count=6&card_width=300&theme=transparent&title_color=8B949E&text_color=7D8590" alt="Top Languages"/>
 </p>
