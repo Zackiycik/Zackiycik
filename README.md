@@ -37,29 +37,30 @@ applications to production: RAG pipelines, agent architectures, and scalable API
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend &amp; Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-30363D?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-30363D?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square&logo=redis&logoColor=white)
 
 **AI &amp; Tooling**
 
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-30363D?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
 ### Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&card_width=420&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackiycik&layout=compact&hide_border=true&langs_count=6&card_width=300&theme=transparent&title_color=8B949E&text_color=7D8590" alt="Top Languages"/>
 </p>
