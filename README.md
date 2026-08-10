@@ -14,6 +14,9 @@
   <a href="https://x.com/REPLACE_WITH_YOUR_X_HANDLE">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
+  <a href="https://discord.com/users/REPLACE_WITH_YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="https://REPLACE_WITH_YOUR_WEBSITE.com">
     <img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
@@ -21,7 +24,7 @@
 
 <!--
   Replace the placeholder links above with your real LinkedIn, X (Twitter),
-  and personal website URLs whenever you have them.
+  Discord, and personal website URLs whenever you have them.
 -->
 
 ---
