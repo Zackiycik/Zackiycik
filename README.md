@@ -61,6 +61,5 @@ applications to production: RAG pipelines, agent architectures, and scalable API
 ### Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&card_width=420&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackiycik&layout=compact&hide_border=true&langs_count=6&card_width=300&theme=transparent&title_color=8B949E&text_color=7D8590" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
 </p>
