@@ -16,7 +16,7 @@
 
 I build backend and web software in the JavaScript/TypeScript ecosystem, and I'm moving into **offensive security**. My goal is to work as a **penetration tester / red teamer**, and later understand the blue-team side too.
 
-I like building things *and* thinking about how they break: my projects are designed with an attacker in mind (signed APIs, replay protection, least-privilege OAuth, threat models).
+I like building things *and* thinking about how they break: my projects are designed with an attacker in mind (signed APIs, replay protection, least-privilege OAuth).
 
 - 🔐 Learning: web application security, networking, Linux privilege escalation, Active Directory basics
 - 🧪 Practicing on **TryHackMe** and in my own lab
@@ -29,7 +29,7 @@ I like building things *and* thinking about how they break: my projects are desi
 
 | Project | What it is | Security highlights |
 |---|---|---|
-| **[zack-discord-verify](https://github.com/Zackiycik/zack-discord-verify)** | Web-based anti-bot / anti-alt verification for Discord servers (Next.js + Node 24 + SQLite) | HMAC-signed and replay-protected API, risk engine, VPN/proxy and headless detection, hashed identifiers, [threat model](https://github.com/Zackiycik/zack-discord-verify/blob/main/docs/THREAT_MODEL.md), CodeQL + gitleaks in CI |
+| **[zack-discord-verify](https://github.com/Zackiycik/zack-discord-verify)** | Web-based anti-bot / anti-alt verification for Discord servers (Next.js + Node 24 + SQLite) | HMAC-signed and replay-protected API, risk engine, VPN/proxy and headless detection, hashed identifiers |
 | **[collective-kemer](https://github.com/Zackiycik/collective-kemer)** | Showcase website for an event venue · [live demo](https://collective-kemer-demo.vercel.app) | Next.js 16, React 19, Tailwind 4, built for real client content |
 | **[fera.db](https://github.com/Zackiycik/fera.db)** | My first npm package: a tiny JSON key-value store (2022) | Early work, kept for history |
 
@@ -62,7 +62,7 @@ I like building things *and* thinking about how they break: my projects are desi
 ### Currently
 
 - 📚 Working through TryHackMe learning paths and writing notes as I go
-- 🔧 Hardening and documenting my own projects (threat models, CI security scanning)
+- 🔧 Hardening my own projects
 - 🎯 Next up: small offensive tools in TypeScript/Python and CTF write-ups
 
 <p align="center"><sub>Older Discord roleplay bots (2022–2023) are archived; they're where I started.</sub></p>
