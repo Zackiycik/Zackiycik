@@ -1,69 +1,68 @@
-<h1 align="center">Hi there, I'm Zackiycik 👋</h1>
+<h1 align="center">Hi, I'm Zack 👋</h1>
 
 <p align="center">
-  Software Developer · JavaScript &amp; TypeScript · Web Development
+  <b>Software Developer → Offensive Security</b><br>
+  Node.js · TypeScript · Linux · learning pentesting on TryHackMe
 </p>
 
 <p align="center">
-  <a href="mailto:61936234+Zackiycik@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/REPLACE_WITH_YOUR_X_HANDLE">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://discord.com/users/REPLACE_WITH_YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://REPLACE_WITH_YOUR_WEBSITE.com">
-    <img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
+  <a href="mailto:61936234+Zackiycik@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Discord-zackiycik-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: zackiycik"/>
 </p>
-
-<!--
-  Replace the placeholder links above with your real LinkedIn, X (Twitter),
-  Discord, and personal website URLs whenever you have them.
--->
 
 ---
 
 ### About me
 
-I'm a software developer focused on the JavaScript/TypeScript ecosystem, building things for
-the web with React and Node.js. I enjoy turning ideas into working products, learning new tools
-along the way, and writing code that's easy to read and maintain.
+I build backend and web software in the JavaScript/TypeScript ecosystem, and I'm moving into **offensive security**. My goal is to work as a **penetration tester / red teamer**, and later understand the blue-team side too.
 
-- 🔭 Currently working on web projects with React and Node.js
-- 🌱 Always learning new frameworks, tools, and best practices
-- 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at **61936234+Zackiycik@users.noreply.github.com**
+I like building things *and* thinking about how they break: my projects are designed with an attacker in mind (signed APIs, replay protection, least-privilege OAuth, threat models).
+
+- 🔐 Learning: web application security, networking, Linux privilege escalation, Active Directory basics
+- 🧪 Practicing on **TryHackMe** and in my own lab
+- 🐧 Daily driver: **Arch Linux** with the BlackArch repository
+- 🛠️ Building: security-minded tools and products with Node.js/TypeScript
 
 ---
 
-### Tech stack
+### Featured projects
 
-**Languages**
+| Project | What it is | Security highlights |
+|---|---|---|
+| **[zack-discord-verify](https://github.com/Zackiycik/zack-discord-verify)** | Web-based anti-bot / anti-alt verification for Discord servers (Next.js + Node 24 + SQLite) | HMAC-signed and replay-protected API, risk engine, VPN/proxy and headless detection, hashed identifiers, [threat model](https://github.com/Zackiycik/zack-discord-verify/blob/main/docs/THREAT_MODEL.md), CodeQL + gitleaks in CI |
+| **[collective-kemer](https://github.com/Zackiycik/collective-kemer)** | Showcase website for an event venue · [live demo](https://collective-kemer-demo.vercel.app) | Next.js 16, React 19, Tailwind 4, built for real client content |
+| **[fera.db](https://github.com/Zackiycik/fera.db)** | My first npm package: a tiny JSON key-value store (2022) | Early work, kept for history |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white)
+---
+
+### Toolbox
+
+**Development**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-30363D?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-30363D?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks &amp; Tools**
-
-![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-30363D?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-30363D?style=flat-square&logo=npm&logoColor=white)
+
+**Security & systems**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-30363D?style=flat-square&logo=archlinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-30363D?style=flat-square&logo=gnubash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-30363D?style=flat-square&logo=tryhackme&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-30363D?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-30363D?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-30363D?style=flat-square&logo=wireshark&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-30363D?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
-### Stats
+### Currently
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zackiycik&show_icons=true&hide_border=true&hide_title=true&hide=issues&card_width=420&rank_icon=github&theme=transparent&title_color=8B949E&text_color=7D8590&icon_color=9198A1&ring_color=8B949E" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zackiycik&layout=compact&hide_border=true&langs_count=6&card_width=300&theme=transparent&title_color=8B949E&text_color=7D8590" alt="Top Languages"/>
-</p>
+- 📚 Working through TryHackMe learning paths and writing notes as I go
+- 🔧 Hardening and documenting my own projects (threat models, CI security scanning)
+- 🎯 Next up: small offensive tools in TypeScript/Python and CTF write-ups
+
+<p align="center"><sub>Older Discord roleplay bots (2022–2023) are archived; they're where I started.</sub></p>
